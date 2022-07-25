@@ -1,7 +1,12 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-.btn-position{
+
+.btn-position {
     bottom: 2%;
+}
+
+.panda-bg {
+    background-color: #fceae8 !important;
 }
